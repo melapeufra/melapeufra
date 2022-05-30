@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ghribi Amel @melapeufra
 - 👀 I’m interested in Cryptography, IT, web development and maths
-- 🌱 I’m currently learning design, after effect and sewing
+- 🌱 I’m currently learning programming, networking,design, after effect and sewing
 - 💞️ I’m looking to collaborate on new projects in the same field as mine
 - 📫 you can reach me in the link in the description
 - founder of CryptoClub usthb 
