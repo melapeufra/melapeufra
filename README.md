@@ -63,7 +63,7 @@
 
 ### 🌟 Featured Projects
 - 🔌 Energy-Meter Image Preprocessing & Visualization Python pipeline to extract readings from meter photos and visualize data.  
-- 📚 Numerical Analysis Jupyter notebooks for modeling, computation, and optimization.  
+- 📚 Numerical Analysis for modeling, computation, and optimization.  
 - 🧠 Python Project Collection Iterative & recursive programming exercises.  
 - 🎮 Aventure de Rail Python-based adventure game.  
 *(See pinned repositories for more ➡️)*
