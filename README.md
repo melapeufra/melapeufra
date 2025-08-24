@@ -4,8 +4,10 @@
   🎓 Master’s student in Management at <b>KEDGE Business School</b><br>
   📊 Aspiring <b>Supply Chain Analyst</b> with a Mathematics & Management background<br>
   💡 Passionate about <b>data analysis, process optimization, and SCM digitalization</b><br>
-  🌍 Currently interning at <b>Neybor, Brussels</b>
+  🌍 Property & Operations Manager intern at <b>Neybor, Brussels</b>
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=melapeufra&color=blue&style=for-the-badge)
 
 ---
 
