@@ -1,24 +1,37 @@
 <h2 align="left">👋 Halo, Ich bin Amel Ghribi</h2>
 
 <p align="left">
-  🎓 Master’s student in Management — <b>KEDGE Business School</b><br>
+  🎓 Master’s student in Management at <b>KEDGE Business School</b><br>
   📊 Aspiring <b>Supply Chain Analyst</b> with a Mathematics & Management background<br>
   💡 Passionate about <b>data analysis, process optimization, and SCM digitalization</b><br>
   🌍 Currently interning at <b>Neybor, Brussels</b>
 </p>
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/girl.gif" alt="Girl coding gif" />
-
-
-
-
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melapeufra&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melapeufra&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" alt="Top languages" />
-</div>
+
+
+<table>
+<tr>
+<td align="left">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=melapeufra&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top languages" />
+
+</td>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=melapeufra&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="GitHub stats" />
+
+</td>
+<td align="right">
+
+<img src="https://raw.githubusercontent.com/melapeufra/melapeufra/main/pic.gif" alt="Clover gif" height="180" style="border-radius:50%;" />
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -40,11 +53,11 @@
 ---
 
 ### 🌟 Featured Projects
-- 🔌 **Energy-Meter Image Preprocessing & Visualization** — Python pipeline to extract readings from meter photos and visualize data.  
-- 📚 **Numerical Analysis** — Jupyter notebooks for modeling, computation, and optimization.  
-- 🧠 **Python Project Collection** — Iterative & recursive programming exercises.  
-- 🎮 **Aventure de Rail** — Python-based adventure game.  
-- 📈 **Global Procurement Project** — Professional project at Neybor (supplier management, cost optimization, demand forecasting).  
+- 🔌 Energy-Meter Image Preprocessing & Visualization Python pipeline to extract readings from meter photos and visualize data.  
+- 📚 Numerical Analysis Jupyter notebooks for modeling, computation, and optimization.  
+- 🧠 Python Project Collection Iterative & recursive programming exercises.  
+- 🎮 Aventure de Rail Python-based adventure game.  
+- 📈 Global Procurement Project Professional project at Neybor (supplier management, cost optimization, demand forecasting).  
 
 *(See pinned repositories for more ➡️)*
 
@@ -68,3 +81,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/melapeufra/melapeufra/output/snake.svg" alt="Snake animation" />
 </p>
+
