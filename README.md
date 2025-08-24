@@ -57,8 +57,6 @@
 - 📚 Numerical Analysis Jupyter notebooks for modeling, computation, and optimization.  
 - 🧠 Python Project Collection Iterative & recursive programming exercises.  
 - 🎮 Aventure de Rail Python-based adventure game.  
-- 📈 Global Procurement Project Professional project at Neybor (supplier management, cost optimization, demand forecasting).  
-
 *(See pinned repositories for more ➡️)*
 
 ---
