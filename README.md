@@ -1,4 +1,6 @@
-<h2 align="left">👋 Halo, Ich bin Amel Ghribi</h2>
+<h2 align="center">✨ Fourth year management student, passionate about supply chain analysis ✨</h2>
+
+<h3 align="center">👋 Halo, Ich bin Amel Ghribi</h3>
 
 <p align="left">
   🎓 Master’s student in Management at <b>KEDGE Business School</b><br>
@@ -6,8 +8,13 @@
   💡 Passionate about <b>data analysis, process optimization, and SCM </b><br>
   🌍 Property & Operations Manager intern at <b>Neybor, Brussels</b>
 </p>
-
-![Profile views](https://komarev.com/ghpvc/?username=melapeufra&color=blue&style=for-the-badge)
+  📬 How to Reach Me
+<p align="left">
+  <a href="mailto:amel.ghribi@kedgebs.com">
+    <img src="https://img.shields.io/badge/Email-amel.ghribi%40kedgebs.com-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=melapeufra&color=blue&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
