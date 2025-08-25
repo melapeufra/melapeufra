@@ -1,4 +1,4 @@
-<h2 align="center">✨ Fourth year management student, passionate about supply chain analysis ✨</h2>
+<h2 align="center"> Fourth year management student, passionate about supply chain analysis </h2>
 
 <h3 align="center">👋 Halo, Ich bin Amel Ghribi</h3>
 
@@ -13,7 +13,6 @@
   <a href="mailto:amel.ghribi@kedgebs.com">
     <img src="https://img.shields.io/badge/Email-amel.ghribi%40kedgebs.com-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=melapeufra&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -72,9 +71,6 @@
 
 ###  Let’s Connect
 <div align="left">
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://www.linkedin.com/in/ghribi-amel-182610209/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
