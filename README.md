@@ -3,12 +3,12 @@
 <h3 align="center">👋 Halo, Ich bin Amel Ghribi</h3>
 
 <p align="left">
-  🎓 Master’s student in Management at <b>KEDGE Business School</b><br>
-  📊 Aspiring <b>Supply Chain Analyst</b> with a Mathematics & Management background<br>
-  💡 Passionate about <b>data analysis, process optimization, and SCM </b><br>
-  🌍 Property & Operations Manager intern at <b>Neybor, Brussels</b>
+  - Master’s student in Management at KEDGE Business School <br>
+  - Aspiring Supply Chain Analyst with a Mathematics & Management background<br>
+  - Passionate about data analysis, process optimization, and SCM <br>
+  - Property & Operations Manager intern at Neybor, Brussels
 </p>
-  📬 How to Reach Me
+   How to Reach Me :
 <p align="left">
   <a href="mailto:amel.ghribi@kedgebs.com">
     <img src="https://img.shields.io/badge/Email-amel.ghribi%40kedgebs.com-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -18,7 +18,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 
 <table>
@@ -44,7 +44,7 @@
 
 ---
 
-### 🛠️ Tech & Tools
+### Tech & Tools
 <div align="left">
   <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
@@ -61,16 +61,16 @@
 
 ---
 
-### 🌟 Featured Projects
-- 🔌 Energy-Meter Image Preprocessing & Visualization Python pipeline to extract readings from meter photos and visualize data.  
-- 📚 Numerical Analysis for modeling, computation, and optimization.  
-- 🧠 Python Project Collection Iterative & recursive programming exercises.  
-- 🎮 Aventure de Rail Python-based adventure game.  
-*(See pinned repositories for more ➡️)*
+### Projects
+-  Energy-Meter Image Preprocessing & Visualization Python pipeline to extract readings from meter photos and visualize data.  
+-  Numerical Analysis for modeling, computation, and optimization.  
+-  Python Project Collection Iterative & recursive programming exercises.  
+- Aventure de Rail Python-based adventure game.  
+*(See pinned repositories for more )*
 
 ---
 
-### 📬 Let’s Connect
+###  Let’s Connect
 <div align="left">
   <a href="mailto:YOUR_EMAIL_HERE">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
