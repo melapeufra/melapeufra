@@ -19,17 +19,16 @@
 
 ### GitHub Stats
 
-
 <table>
 <tr>
 <td align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=melapeufra&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melapeufra&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=86400" height="180" alt="Top languages" />
 
 </td>
 <td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=melapeufra&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=melapeufra&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400" height="180" alt="GitHub stats" />
 
 </td>
 <td align="right">
@@ -39,6 +38,7 @@
 </td>
 </tr>
 </table>
+
 
 
 ---
@@ -61,6 +61,7 @@
 ---
 
 ### Projects
+-  Neybor-Map-App-Interactive-Visualization-of-Housing-Locations-in-Brussels
 -  Energy-Meter Image Preprocessing & Visualization Python pipeline to extract readings from meter photos and visualize data.  
 -  Numerical Analysis for modeling, computation, and optimization.  
 -  Python Project Collection Iterative & recursive programming exercises.  
