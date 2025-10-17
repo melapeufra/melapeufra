@@ -51,11 +51,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="32" alt="MATLAB" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Python-83.1%25-blue?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/HTML-15.1%25-orange?logo=html5&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Dockerfile-1.6%25-2496ED?logo=docker&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Procfile-0.2%25-6E40C9?style=flat-square" />
-  <img src="https://img.shields.io/badge/CPLEX-Optimization-ff6600?logo=ibm&logoColor=white&style=flat-square" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python 83.1%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML 15.1%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Dockerfile" title="Dockerfile 1.6%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Procfile (Heroku)" title="Procfile 0.2%" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" height="40" alt="IBM CPLEX" title="CPLEX Optimization" />
 
   <!-- Analytics stack -->
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" alt="Excel" />
