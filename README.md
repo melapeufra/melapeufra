@@ -54,7 +54,6 @@
 </td>
 </tr>
 </table>
----
 
 ### Projects
 -  Neybor-Map-App-Interactive-Visualization-of-Housing-Locations-in-Brussels
