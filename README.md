@@ -51,6 +51,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="32" alt="MATLAB" />
   <br/><br/>
+  <img src="https://img.shields.io/badge/Python-83.1%25-blue?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML-15.1%25-orange?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Dockerfile-1.6%25-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Procfile-0.2%25-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/CPLEX-Optimization-ff6600?logo=ibm&logoColor=white&style=flat-square" />
+
   <!-- Analytics stack -->
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" alt="Excel" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI" />
