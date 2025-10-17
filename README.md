@@ -17,26 +17,17 @@
 
 ---
 
-### GitHub Stats
+### GitHub Stats, Tech & Tools
 
 <table>
 <tr>
 </td>
-<td align="center">
+<td align="left">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melapeufra&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=86400" height="180" alt="Top languages" />
 
-<img src="https://raw.githubusercontent.com/melapeufra/melapeufra/main/pic.gif" alt="Clover gif" height="180" style="border-radius:50%;" />
-
 </td>
-</tr>
-</table>
-
-
-
----
-
-### Tech & Tools
+<td align="center">
 <div align="left">
   <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
@@ -53,8 +44,16 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI" />
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="28" alt="SAP" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="SQL" />
-</div>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="28" alt="LaTeX" />
 
+</div>
+</td>
+<td align="right">
+<img src="https://raw.githubusercontent.com/melapeufra/melapeufra/main/pic.gif" alt="Clover gif" height="180" style="border-radius:50%;" />
+
+</td>
+</tr>
+</table>
 ---
 
 ### Projects
