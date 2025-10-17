@@ -21,17 +21,10 @@
 
 <table>
 <tr>
-<td align="left">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melapeufra&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=86400" height="180" alt="Top languages" />
-
 </td>
 <td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=melapeufra&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400" height="180" alt="GitHub stats" />
-
-</td>
-<td align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melapeufra&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=86400" height="180" alt="Top languages" />
 
 <img src="https://raw.githubusercontent.com/melapeufra/melapeufra/main/pic.gif" alt="Clover gif" height="180" style="border-radius:50%;" />
 
