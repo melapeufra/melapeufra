@@ -67,7 +67,7 @@
 
 ###  Let’s Connect
 <div align="left">
-  <a href="https://www.linkedin.com/in/ghribi-amel-182610209/">
+  <a href="https://www.linkedin.com/in/ghribi-amel/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://melapeufra.blogspot.com/">
