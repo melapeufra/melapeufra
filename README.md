@@ -1,4 +1,5 @@
-<h2 align="center"> Fourth year management student, passionate about supply chain analysis </h2>
+<h2 align="center"> Operations and supply chain management student, passionate about supply chain 
+</h2>
 
 <h3 align="center">👋 Halo, Ich bin Amel Ghribi</h3>
 
