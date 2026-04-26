@@ -1,13 +1,12 @@
-<h2 align="center"> Operations and supply chain management student, passionate about supply chain 
+<h2 align="center"> Supply chain student with bac+5 in mathematics and operations research | Supply chain 4.0 | Power Bi & SAP 
 </h2>
 
 <h3 align="center">👋 Halo, Ich bin Amel Ghribi</h3>
 
 <p align="left">
-  - Master’s student in Management at KEDGE Business School <br>
-  - Aspiring Supply Chain Analyst with a Mathematics & Management background<br>
+  - Master’s student in Supply chain Management (Programme Grande Ecole) at KEDGE Business School <br>
+  - Aspiring Supply Chain Analyst with Bac+5 in Mathematics & Operations Research <br>
   - Passionate about data analysis, process optimization, and SCM <br>
-  - Property & Operations Manager intern at Neybor, Brussels
 </p>
    How to Reach Me :
 <p align="left">
