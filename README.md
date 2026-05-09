@@ -57,9 +57,9 @@
 
 ### Projects
 -  Neybor-Map-App-Interactive-Visualization-of-Housing-Locations-in-Brussels
+-  Demand-Planning-with-Machine-Learning 
 -  Energy-Meter Image Preprocessing & Visualization Python pipeline to extract readings from meter photos and visualize data.  
 -  Numerical Analysis for modeling, computation, and optimization.  
--  Neybor route planner: Interactive web app to plan and optimize routes.
 -  Aventure de Rail Python-based adventure game.  
 *(See pinned repositories for more )*
 
