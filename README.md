@@ -5,8 +5,8 @@
 
 <p align="left">
   - Master’s student in Supply chain Management (Programme Grande Ecole) at KEDGE Business School <br>
-  - Aspiring Supply Chain Analyst with Bac+5 in Mathematics & Operations Research <br>
-  - Passionate about data analysis, process optimization, and SCM <br>
+  - Supply Chain Analyst Intern @Safran with Bac+5 in Mathematics & Operations Research <br>
+  - Passionate about data analysis, demand planning, process optimization, and Supply chain 4.0 <br>
 </p>
    How to Reach Me :
 <p align="left">
