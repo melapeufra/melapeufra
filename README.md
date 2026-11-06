@@ -1,11 +1,11 @@
 <h2 align="center"> Demand Planner @Sephora 
 </h2>
 
-<h3 align="center">👋 Halo, Ich bin Amel Ghribi</h3>
+<h3 align="center">👋 Hallo, Ich bin Amel Ghribi</h3>
 
 <p align="left">
   - Master degree in Supply chain Management (Programme Grande Ecole) at KEDGE Business School <br>
-  - Demand Planner Europe @Sephora (LVMH) 
+  - Demand Planner Europe @Sephora (LVMH) <br>
   - Bac+5 in Mathematics & Operations Research <br>
   - Passionate about Data Analytics, Demand Planning, Machine Learning, Process Optimization, and Supply Chain 4.0 <br>
 </p>
@@ -18,43 +18,40 @@
 
 ---
 
-### GitHub Stats, Tech & Tools
+### Tech Stack & Languages
 
-<table>
-<tr>
-</td>
-<td align="left">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melapeufra&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=86400" height="180" alt="Top languages" />
-
-</td>
-<td align="center">
-<div align="left">
-  <!-- Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="32" alt="MATLAB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Dockerfile" title="Dockerfile" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Procfile (Heroku)" title="Procfile" />
-  <img src="https://img.shields.io/badge/CPLEX-FF6600?style=for-the-badge&logo=ibm&logoColor=white" height="28" alt="CPLEX" />
-  <br/><br/>
-  <!-- Analytics stack -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="28" alt="SAP" />
+<div align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" title="C++" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML" title="HTML" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="32" alt="MATLAB" title="MATLAB" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="SQL" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="28" alt="LaTeX" />
-
+  <br/><br/>
+  <!-- Tools & Analytics -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="32" alt="Jupyter" title="Jupyter" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="28" alt="SAP" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" alt="Excel" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CPLEX-FF6600?style=for-the-badge&logo=ibm&logoColor=white" height="28" alt="CPLEX" />
 </div>
-</td>
-<td align="right">
-<img src="https://raw.githubusercontent.com/melapeufra/melapeufra/main/pic.gif" alt="Clover gif" height="180" style="border-radius:50%;" />
 
-</td>
-</tr>
-</table>
+<p align="center">
+</p>
+
+---
 
 ### Projects
 -  Neybor-Map-App-Interactive-Visualization-of-Housing-Locations-in-Brussels
@@ -80,4 +77,3 @@
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/melapeufra/melapeufra/output/snake.svg" alt="Snake animation" /> </p>
-
