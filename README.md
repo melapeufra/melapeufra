@@ -1,4 +1,4 @@
-<h2 align="center"> Demand Planner @Sephora with bac+5 in mathematics and operations research | Supply chain 4.0 | Power Bi & SAP 
+<h2 align="center"> Demand Planner @Sephora 
 </h2>
 
 <h3 align="center">👋 Halo, Ich bin Amel Ghribi</h3>
