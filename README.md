@@ -1,11 +1,12 @@
-<h2 align="center"> Supply chain student with bac+5 in mathematics and operations research | Supply chain 4.0 | Power Bi & SAP 
+<h2 align="center"> Demand Planner @Sephora with bac+5 in mathematics and operations research | Supply chain 4.0 | Power Bi & SAP 
 </h2>
 
 <h3 align="center">👋 Halo, Ich bin Amel Ghribi</h3>
 
 <p align="left">
-  - Master’s student in Supply chain Management (Programme Grande Ecole) at KEDGE Business School <br>
-  - Supply Chain Analyst Intern @Safran with Bac+5 in Mathematics & Operations Research <br>
+  - Master degree in Supply chain Management (Programme Grande Ecole) at KEDGE Business School <br>
+  - Demand Planner Europe @Sephora (LVMH) 
+  - Bac+5 in Mathematics & Operations Research <br>
   - Passionate about Data Analytics, Demand Planning, Machine Learning, Process Optimization, and Supply Chain 4.0 <br>
 </p>
    How to Reach Me :
